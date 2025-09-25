@@ -1,0 +1,11 @@
+{
+  "name": "ts-design-mode",
+  "version": "1.0.0",
+  "description": "安装TSC  tsc ./builder.ts && node ./builder.js",
+  "main": "abstract-factory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

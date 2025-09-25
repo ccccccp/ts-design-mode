@@ -1,0 +1,1 @@
+安装TSC  tsc ./builder.ts && node ./builder.js
