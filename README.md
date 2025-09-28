@@ -1,1 +1,1 @@
-安装TSC  tsc ./builder.ts && node ./builder.js
+安装TSC  tsc ./builder.ts --outDir && node ./js/builder.js
