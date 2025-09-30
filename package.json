@@ -4,7 +4,7 @@
   "description": "安装TSC  tsc ./builder.ts && node ./builder.js",
   "main": "abstract-factory.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tsc --target es6 ./FlyWeight.ts --outDir ./js && node ./js/FlyWeight.js"
   },
   "author": "",
   "license": "ISC"
