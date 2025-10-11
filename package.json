@@ -4,7 +4,7 @@
   "description": "安装TSC  tsc ./builder.ts && node ./builder.js",
   "main": "abstract-factory.js",
   "scripts": {
-    "test": "tsc --target es6 ./Memento.ts --outDir ./js && node ./js/Memento.js"
+    "test": "tsc --target es6 ./Observer.ts --outDir ./js && node ./js/Observer.js"
   },
   "author": "",
   "license": "ISC"

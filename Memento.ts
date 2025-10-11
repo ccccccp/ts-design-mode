@@ -35,7 +35,7 @@ class Originator {
      }
 }
 
-// 管理人类
+// 管理类
 class Caretaker {
     private memento:Memento
     public setMenento(memento:Memento):void{
