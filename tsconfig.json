@@ -5,7 +5,8 @@
         "target": "es6",
         "lib": [
             "dom"
-        ]
+        ],
+        "moduleDetection":"force"
     },
     "include": [
         "*.ts"
