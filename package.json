@@ -4,7 +4,7 @@
   "description": "安装TSC  tsc ./builder.ts && node ./builder.js",
   "main": "abstract-factory.js",
   "scripts": {
-    "test": "tsc --target es6 ./Template.ts --outDir ./js && node ./js/Template.js"
+    "test": "tsc --target es6 ./Visitor.ts --outDir ./js && node ./js/Visitor.js"
   },
   "author": "",
   "license": "ISC"
